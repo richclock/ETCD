@@ -1,0 +1,25 @@
+{
+  "key": "fermentation",
+  "iconUrl": "dashboard",
+  "features": [
+    {
+      "kind": "overview",
+      "linkIds": "overview"
+    },
+    {
+      "kind": "detail",
+      "linkId": "kpiSettings"
+    }
+  ],
+  "homeLinkId": "overview",
+  "linkTranslations": [
+    {
+      "id": "overview",
+      "name": "總覽"
+    },
+    {
+      "id": "detail",
+      "name": "詳細資料"
+    }
+  ]
+}
